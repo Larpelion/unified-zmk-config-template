@@ -7,9 +7,9 @@
 
         layer_0 {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
-&kp A   &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans    &trans  &kp L   &trans  &trans  &trans  &trans
+&kp A   &trans  &trans  &trans  &kp C   &trans    &kp A   &kp B   &kp C   &kp D   &kp F   &trans
+&trans  &trans  &trans  &trans  &trans  &trans    &kp D   &trans  &kp N   &trans  &trans  &trans
                         &trans  &trans  &trans    &trans  &trans  &trans
             >;
         };
